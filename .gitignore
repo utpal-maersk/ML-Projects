@@ -1,0 +1,34 @@
+# Virtual envs
+.venv/
+venv/
+*_env/
+cnn_env/
+damage_env/
+plant_env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Models
+*.h5
+*.pkl
+*.sav
+*.joblib
+
+# Datasets
+*.csv
+dataset/
+data/
+train/
+test/
+
+# IDE
+.vscode/
+.DS_Store
+
+# images
+*.jpg
+*.jpeg
+*.png
+*.JPG
